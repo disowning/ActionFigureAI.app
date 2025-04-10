@@ -21,60 +21,71 @@ export default async function Gallery({
       id: 1,
       title: 'Superhero Action Figure',
       image: '/placeholder.jpg',
-      category: 'Superhero',
+      category: dictionary.gallery.categories.superhero,
     },
     {
       id: 2,
       title: 'Sci-Fi Robot Action Figure',
       image: '/placeholder.jpg',
-      category: 'Sci-Fi',
+      category: dictionary.gallery.categories.scifi,
     },
     {
       id: 3,
       title: 'Fantasy Warrior Action Figure',
       image: '/placeholder.jpg',
-      category: 'Fantasy',
+      category: dictionary.gallery.categories.fantasy,
     },
     {
       id: 4,
       title: 'Sports Star Action Figure',
       image: '/placeholder.jpg',
-      category: 'Sports',
+      category: dictionary.gallery.categories.sports,
     },
     {
       id: 5,
       title: 'Astronaut Action Figure',
       image: '/placeholder.jpg',
-      category: 'Space',
+      category: dictionary.gallery.categories.space,
     },
     {
       id: 6,
       title: 'Western Cowboy Action Figure',
       image: '/placeholder.jpg',
-      category: 'Western',
+      category: dictionary.gallery.categories.western,
     },
     {
       id: 7,
       title: 'Ninja Warrior Action Figure',
       image: '/placeholder.jpg',
-      category: 'Martial Arts',
+      category: dictionary.gallery.categories.martialArts,
     },
     {
       id: 8,
       title: 'Medieval Knight Action Figure',
       image: '/placeholder.jpg',
-      category: 'Medieval',
+      category: dictionary.gallery.categories.medieval,
     },
     {
       id: 9,
       title: 'Pirate Captain Action Figure',
       image: '/placeholder.jpg',
-      category: 'Pirates',
+      category: dictionary.gallery.categories.pirates,
     },
   ];
 
   // Categories for filtering
-  const categories = ['All', 'Superhero', 'Sci-Fi', 'Fantasy', 'Sports', 'Space', 'Western', 'Martial Arts', 'Medieval', 'Pirates'];
+  const categories = [
+    dictionary.gallery.categories.all,
+    dictionary.gallery.categories.superhero,
+    dictionary.gallery.categories.scifi,
+    dictionary.gallery.categories.fantasy,
+    dictionary.gallery.categories.sports,
+    dictionary.gallery.categories.space,
+    dictionary.gallery.categories.western,
+    dictionary.gallery.categories.martialArts,
+    dictionary.gallery.categories.medieval,
+    dictionary.gallery.categories.pirates
+  ];
 
   return (
     <div className="bg-white">
@@ -151,15 +162,15 @@ export default async function Gallery({
       <section className="py-16 md:py-24 bg-primary text-white">
         <div className="container-custom mx-auto">
           <div className="max-w-3xl mx-auto text-center">
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">Create Your Own Action Figure</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">{dictionary.gallery.createYourOwn.title}</h2>
             <p className="text-lg md:text-xl mb-8 text-tech">
-              Ready to see yourself as an action figure? Upload your photo and let our AI do the magic!
+              {dictionary.gallery.createYourOwn.subtitle}
             </p>
             <Link
-              href={`/${locale}#create`}
+              href={`/${locale}/create`}
               className="btn-secondary text-lg px-8 py-3"
             >
-              {dictionary.hero.cta}
+              {dictionary.gallery.createYourOwn.cta}
             </Link>
           </div>
         </div>

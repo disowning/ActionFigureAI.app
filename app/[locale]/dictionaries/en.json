@@ -32,7 +32,24 @@
   "gallery": {
     "title": "Gallery",
     "subtitle": "Browse our collection of AI-generated action figures",
-    "viewMore": "View More"
+    "viewMore": "View More",
+    "categories": {
+      "all": "All",
+      "superhero": "Superhero",
+      "scifi": "Sci-Fi",
+      "fantasy": "Fantasy",
+      "sports": "Sports",
+      "space": "Space",
+      "western": "Western",
+      "martialArts": "Martial Arts",
+      "medieval": "Medieval",
+      "pirates": "Pirates"
+    },
+    "createYourOwn": {
+      "title": "Create Your Own Action Figure",
+      "subtitle": "Ready to see yourself as an action figure? Upload your photo and let our AI do the magic!",
+      "cta": "Create Now"
+    }
   },
   "testimonials": {
     "title": "What Our Users Say",
@@ -42,7 +59,33 @@
     "title": "About Us",
     "mission": "Our Mission",
     "story": "Our Story",
-    "team": "Our Team"
+    "team": "Our Team",
+    "missionText": {
+      "part1": "At ActionFigureAI, our mission is to bring the joy of personalized action figures to everyone. We believe that everyone deserves to see themselves as the hero of their own story.",
+      "part2": "Using cutting-edge AI technology, we've created a platform that allows you to transform yourself, your friends, and your family into high-quality action figures that capture your unique personality and style."
+    },
+    "storyText": {
+      "part1": "ActionFigureAI was founded in 2023 by a team of AI researchers, 3D modeling experts, and toy industry veterans who shared a passion for action figures and technology.",
+      "part2": "We started with a simple question: What if anyone could have an action figure that looked exactly like them? After months of development and testing, we created our proprietary AI system that can transform ordinary photos into detailed action figure designs.",
+      "part3": "Today, we're proud to offer this technology to people around the world, helping them create personalized keepsakes and gifts that celebrate individuality and imagination."
+    },
+    "teamMembers": {
+      "member1": {
+        "name": "Emily Chen",
+        "role": "CEO & Co-Founder",
+        "description": "AI researcher with a passion for bringing technology and creativity together."
+      },
+      "member2": {
+        "name": "Michael Rodriguez",
+        "role": "CTO & Co-Founder",
+        "description": "Computer vision expert with 15 years experience in 3D modeling and rendering."
+      },
+      "member3": {
+        "name": "Sarah Johnson",
+        "role": "Head of Design",
+        "description": "Former toy designer with expertise in creating collectible action figures."
+      }
+    }
   },
   "footer": {
     "rights": "All rights reserved",

@@ -1,0 +1,96 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "gallery": "Galería",
+    "create": "Crear Tu Figura"
+  },
+  "hero": {
+    "title": "Transfórmate en una Figura de Acción",
+    "subtitle": "Sube tu foto y deja que la IA cree una figura de acción personalizada",
+    "cta": "Crear Ahora"
+  },
+  "features": {
+    "title": "Cómo Funciona",
+    "upload": {
+      "title": "Sube Tu Foto",
+      "description": "Proporciona una foto clara de ti o de la persona que quieres transformar"
+    },
+    "customize": {
+      "title": "Elige Tu Estilo",
+      "description": "Selecciona entre varios estilos de figuras de acción y opciones de personalización"
+    },
+    "generate": {
+      "title": "Generación por IA",
+      "description": "Nuestra IA avanzada transforma tu foto en una figura de acción realista"
+    },
+    "download": {
+      "title": "Descarga y Comparte",
+      "description": "Descarga tu figura de acción digital o encarga una física"
+    }
+  },
+  "gallery": {
+    "title": "Galería",
+    "subtitle": "Explora nuestra colección de figuras de acción generadas por IA",
+    "viewMore": "Ver Más",
+    "categories": {
+      "all": "Todos",
+      "superhero": "Superhéroe",
+      "scifi": "Ciencia Ficción",
+      "fantasy": "Fantasía",
+      "sports": "Deportes",
+      "space": "Espacio",
+      "western": "Oeste",
+      "martialArts": "Artes Marciales",
+      "medieval": "Medieval",
+      "pirates": "Piratas"
+    },
+    "createYourOwn": {
+      "title": "Crea Tu Propia Figura de Acción",
+      "subtitle": "¿Listo para verte como una figura de acción? ¡Sube tu foto y deja que nuestra IA haga la magia!",
+      "cta": "Crear Ahora"
+    }
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Usuarios",
+    "viewAll": "Ver Todas las Opiniones"
+  },
+  "about": {
+    "title": "Acerca de Nosotros",
+    "mission": "Nuestra Misión",
+    "story": "Nuestra Historia",
+    "team": "Nuestro Equipo",
+    "missionText": {
+      "part1": "En ActionFigureAI, nuestra misión es llevar la alegría de las figuras de acción personalizadas a todos. Creemos que todos merecen verse como el héroe de su propia historia.",
+      "part2": "Utilizando tecnología de IA de vanguardia, hemos creado una plataforma que te permite transformarte a ti mismo, a tus amigos y a tu familia en figuras de acción de alta calidad que capturan tu personalidad y estilo únicos."
+    },
+    "storyText": {
+      "part1": "ActionFigureAI fue fundada en 2023 por un equipo de investigadores de IA, expertos en modelado 3D y veteranos de la industria de juguetes que compartían una pasión por las figuras de acción y la tecnología.",
+      "part2": "Comenzamos con una simple pregunta: ¿Y si cualquiera pudiera tener una figura de acción que se pareciera exactamente a ellos? Después de meses de desarrollo y pruebas, creamos nuestro sistema de IA patentado que puede transformar fotos ordinarias en diseños detallados de figuras de acción.",
+      "part3": "Hoy, estamos orgullosos de ofrecer esta tecnología a personas de todo el mundo, ayudándoles a crear recuerdos personalizados y regalos que celebran la individualidad y la imaginación."
+    },
+    "teamMembers": {
+      "member1": {
+        "name": "Emily Chen",
+        "role": "CEO y Cofundadora",
+        "description": "Investigadora de IA con pasión por unir tecnología y creatividad."
+      },
+      "member2": {
+        "name": "Michael Rodriguez",
+        "role": "CTO y Cofundador",
+        "description": "Experto en visión por computadora con 15 años de experiencia en modelado 3D y renderizado."
+      },
+      "member3": {
+        "name": "Sarah Johnson",
+        "role": "Directora de Diseño",
+        "description": "Ex diseñadora de juguetes con experiencia en la creación de figuras de acción coleccionables."
+      }
+    }
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "contact": "Contáctanos"
+  }
+} 

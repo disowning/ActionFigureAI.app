@@ -23,7 +23,7 @@ export default function Hero({ dictionary, locale }: HeroProps) {
             </p>
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 justify-center md:justify-start">
               <Link
-                href={`/${locale}#create`}
+                href={`/${locale}/create`}
                 className="btn-primary text-center sm:text-left"
               >
                 {dictionary.hero.cta}

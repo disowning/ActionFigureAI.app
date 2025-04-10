@@ -38,7 +38,7 @@ export default function Header({ dictionary, locale }: HeaderProps) {
             <Link href={`/${locale}/gallery`} className="hover:text-secondary transition-colors">
               {dictionary.navigation.gallery}
             </Link>
-            <Link href={`/${locale}#create`} className="btn-primary text-sm px-4 py-2">
+            <Link href={`/${locale}/create`} className="btn-primary text-sm px-4 py-2">
               {dictionary.navigation.create}
             </Link>
           </nav>
@@ -102,7 +102,7 @@ export default function Header({ dictionary, locale }: HeaderProps) {
                 {dictionary.navigation.gallery}
               </Link>
               <Link
-                href={`/${locale}#create`}
+                href={`/${locale}/create`}
                 className="btn-primary text-sm px-4 py-2 inline-block text-center"
                 onClick={toggleMenu}
               >

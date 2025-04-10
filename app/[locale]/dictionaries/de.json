@@ -1,0 +1,96 @@
+{
+  "navigation": {
+    "home": "Startseite",
+    "about": "Über Uns",
+    "gallery": "Galerie",
+    "create": "Figur Erstellen"
+  },
+  "hero": {
+    "title": "Verwandeln Sie sich in eine Actionfigur",
+    "subtitle": "Laden Sie Ihr Foto hoch und lassen Sie die KI eine personalisierte Actionfigur erstellen",
+    "cta": "Jetzt Erstellen"
+  },
+  "features": {
+    "title": "So Funktioniert Es",
+    "upload": {
+      "title": "Foto Hochladen",
+      "description": "Stellen Sie ein klares Foto von sich selbst oder der Person bereit, die Sie verwandeln möchten"
+    },
+    "customize": {
+      "title": "Stil Auswählen",
+      "description": "Wählen Sie aus verschiedenen Actionfiguren-Stilen und Anpassungsoptionen"
+    },
+    "generate": {
+      "title": "KI-Generierung",
+      "description": "Unsere fortschrittliche KI verwandelt Ihr Foto in eine realistische Actionfigur"
+    },
+    "download": {
+      "title": "Herunterladen & Teilen",
+      "description": "Laden Sie Ihre digitale Actionfigur herunter oder bestellen Sie eine physische"
+    }
+  },
+  "gallery": {
+    "title": "Galerie",
+    "subtitle": "Durchstöbern Sie unsere Sammlung von KI-generierten Actionfiguren",
+    "viewMore": "Mehr Anzeigen",
+    "categories": {
+      "all": "Alle",
+      "superhero": "Superheld",
+      "scifi": "Science-Fiction",
+      "fantasy": "Fantasy",
+      "sports": "Sport",
+      "space": "Weltraum",
+      "western": "Western",
+      "martialArts": "Kampfkunst",
+      "medieval": "Mittelalter",
+      "pirates": "Piraten"
+    },
+    "createYourOwn": {
+      "title": "Erstellen Sie Ihre Eigene Actionfigur",
+      "subtitle": "Bereit, sich selbst als Actionfigur zu sehen? Laden Sie Ihr Foto hoch und lassen Sie unsere KI die Magie wirken!",
+      "cta": "Jetzt Erstellen"
+    }
+  },
+  "testimonials": {
+    "title": "Was Unsere Nutzer Sagen",
+    "viewAll": "Alle Bewertungen Anzeigen"
+  },
+  "about": {
+    "title": "Über Uns",
+    "mission": "Unsere Mission",
+    "story": "Unsere Geschichte",
+    "team": "Unser Team",
+    "missionText": {
+      "part1": "Bei ActionFigureAI ist es unsere Mission, die Freude an personalisierten Actionfiguren zu allen zu bringen. Wir glauben, dass jeder verdient, sich selbst als Held seiner eigenen Geschichte zu sehen.",
+      "part2": "Mit modernster KI-Technologie haben wir eine Plattform geschaffen, die es Ihnen ermöglicht, sich selbst, Ihre Freunde und Ihre Familie in hochwertige Actionfiguren zu verwandeln, die Ihre einzigartige Persönlichkeit und Ihren Stil einfangen."
+    },
+    "storyText": {
+      "part1": "ActionFigureAI wurde 2023 von einem Team aus KI-Forschern, 3D-Modellierungsexperten und Veteranen der Spielzeugindustrie gegründet, die eine Leidenschaft für Actionfiguren und Technologie teilten.",
+      "part2": "Wir begannen mit einer einfachen Frage: Was wäre, wenn jeder eine Actionfigur haben könnte, die genau wie er aussieht? Nach monatelanger Entwicklung und Tests haben wir unser proprietäres KI-System entwickelt, das gewöhnliche Fotos in detaillierte Actionfigur-Designs umwandeln kann.",
+      "part3": "Heute sind wir stolz darauf, diese Technologie Menschen auf der ganzen Welt anzubieten und ihnen zu helfen, personalisierte Erinnerungsstücke und Geschenke zu erstellen, die Individualität und Fantasie feiern."
+    },
+    "teamMembers": {
+      "member1": {
+        "name": "Emily Chen",
+        "role": "CEO & Mitgründerin",
+        "description": "KI-Forscherin mit einer Leidenschaft für die Verbindung von Technologie und Kreativität."
+      },
+      "member2": {
+        "name": "Michael Rodriguez",
+        "role": "CTO & Mitgründer",
+        "description": "Experte für Computer Vision mit 15 Jahren Erfahrung in 3D-Modellierung und Rendering."
+      },
+      "member3": {
+        "name": "Sarah Johnson",
+        "role": "Design-Leiterin",
+        "description": "Ehemalige Spielzeugdesignerin mit Expertise in der Erstellung von sammelwürdigen Actionfiguren."
+      }
+    }
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "contact": "Kontakt"
+  }
+} 

@@ -1,0 +1,96 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "gallery": "Galerie",
+    "create": "Créer Votre Figurine"
+  },
+  "hero": {
+    "title": "Transformez-vous en Figurine d'Action",
+    "subtitle": "Téléchargez votre photo et laissez l'IA créer une figurine d'action personnalisée",
+    "cta": "Créer Maintenant"
+  },
+  "features": {
+    "title": "Comment Ça Marche",
+    "upload": {
+      "title": "Téléchargez Votre Photo",
+      "description": "Fournissez une photo claire de vous-même ou de la personne que vous souhaitez transformer"
+    },
+    "customize": {
+      "title": "Choisissez Votre Style",
+      "description": "Sélectionnez parmi diverses styles de figurines et options de personnalisation"
+    },
+    "generate": {
+      "title": "Génération par IA",
+      "description": "Notre IA avancée transforme votre photo en une figurine d'action réaliste"
+    },
+    "download": {
+      "title": "Téléchargez & Partagez",
+      "description": "Téléchargez votre figurine numérique ou commandez-en une physique"
+    }
+  },
+  "gallery": {
+    "title": "Galerie",
+    "subtitle": "Parcourez notre collection de figurines d'action générées par IA",
+    "viewMore": "Voir Plus",
+    "categories": {
+      "all": "Tous",
+      "superhero": "Super-héros",
+      "scifi": "Science-fiction",
+      "fantasy": "Fantaisie",
+      "sports": "Sports",
+      "space": "Espace",
+      "western": "Western",
+      "martialArts": "Arts Martiaux",
+      "medieval": "Médiéval",
+      "pirates": "Pirates"
+    },
+    "createYourOwn": {
+      "title": "Créez Votre Propre Figurine d'Action",
+      "subtitle": "Prêt à vous voir en figurine d'action ? Téléchargez votre photo et laissez notre IA faire la magie !",
+      "cta": "Créer Maintenant"
+    }
+  },
+  "testimonials": {
+    "title": "Ce Que Disent Nos Utilisateurs",
+    "viewAll": "Voir Tous les Avis"
+  },
+  "about": {
+    "title": "À Propos de Nous",
+    "mission": "Notre Mission",
+    "story": "Notre Histoire",
+    "team": "Notre Équipe",
+    "missionText": {
+      "part1": "Chez ActionFigureAI, notre mission est d'apporter la joie des figurines d'action personnalisées à tout le monde. Nous croyons que chacun mérite de se voir comme le héros de sa propre histoire.",
+      "part2": "En utilisant une technologie d'IA de pointe, nous avons créé une plateforme qui vous permet de transformer vous-même, vos amis et votre famille en figurines d'action de haute qualité qui capturent votre personnalité et votre style uniques."
+    },
+    "storyText": {
+      "part1": "ActionFigureAI a été fondée en 2023 par une équipe de chercheurs en IA, d'experts en modélisation 3D et de vétérans de l'industrie du jouet qui partageaient une passion pour les figurines d'action et la technologie.",
+      "part2": "Nous avons commencé par une simple question : Et si n'importe qui pouvait avoir une figurine d'action qui lui ressemblait exactement ? Après des mois de développement et de tests, nous avons créé notre système d'IA propriétaire qui peut transformer des photos ordinaires en designs de figurines d'action détaillés.",
+      "part3": "Aujourd'hui, nous sommes fiers d'offrir cette technologie aux personnes du monde entier, les aidant à créer des souvenirs personnalisés et des cadeaux qui célèbrent l'individualité et l'imagination."
+    },
+    "teamMembers": {
+      "member1": {
+        "name": "Emily Chen",
+        "role": "PDG & Co-fondatrice",
+        "description": "Chercheuse en IA passionnée par l'alliance de la technologie et de la créativité."
+      },
+      "member2": {
+        "name": "Michael Rodriguez",
+        "role": "Directeur Technique & Co-fondateur",
+        "description": "Expert en vision par ordinateur avec 15 ans d'expérience en modélisation 3D et rendu."
+      },
+      "member3": {
+        "name": "Sarah Johnson",
+        "role": "Directrice du Design",
+        "description": "Ancienne designer de jouets spécialisée dans la création de figurines d'action de collection."
+      }
+    }
+  },
+  "footer": {
+    "rights": "Tous droits réservés",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "contact": "Contactez-Nous"
+  }
+} 

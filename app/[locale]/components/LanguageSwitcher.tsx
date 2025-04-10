@@ -5,8 +5,8 @@ import Link from 'next/link';
 import { useState } from 'react';
 import { Locale, localeNames } from '../../i18n-config';
 
-// Only include locales that have dictionary files
-const availableLocales = ['en', 'zh'] as const;
+// Include all available locales with dictionary files
+const availableLocales = ['en', 'zh', 'ja', 'fr', 'es', 'de'] as const;
 
 interface LanguageSwitcherProps {
   locale: Locale;

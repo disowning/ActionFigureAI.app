@@ -5,7 +5,9 @@ ActionFigureAI.app is a web application that offers AI-generated personalized ac
 ## Features
 
 - **AI Action Figure Generation**: Upload photos and get personalized action figures
-- **Multiple Style Options**: Choose from various action figure styles
+- **Multiple Style Options**: Choose from various action figure styles including superhero, sci-fi, fantasy, and more
+- **Interactive Creation Process**: Simple 3-step process to upload, customize, and generate your action figure
+- **Image Preview and Sharing**: Preview your generated figure and easily share it with friends
 - **Responsive Design**: Works on all devices from mobile to desktop
 - **Multilingual Support**: Available in English, Chinese, Japanese, French, Spanish, and German
 - **Modern UI/UX**: Clean, professional interface with smooth animations
@@ -31,6 +33,7 @@ ActionFigureAI.app is a web application that offers AI-generated personalized ac
     /(pages)
       /about - About page
       /gallery - Gallery page
+      /create - Create action figure page
     /components - Reusable React components
       /ui - UI components (buttons, cards, etc.)
       /layout - Layout components

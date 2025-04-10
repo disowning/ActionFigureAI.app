@@ -35,10 +35,10 @@ export default async function About({
               <h2 className="text-3xl font-bold mb-4">{dictionary.about.mission}</h2>
               <div className="w-16 h-1 bg-secondary mb-6"></div>
               <p className="text-gray-700 mb-6">
-                At ActionFigureAI, our mission is to bring the joy of personalized action figures to everyone. We believe that everyone deserves to see themselves as the hero of their own story.
+                {dictionary.about.missionText.part1}
               </p>
               <p className="text-gray-700">
-                Using cutting-edge AI technology, we've created a platform that allows you to transform yourself, your friends, and your family into high-quality action figures that capture your unique personality and style.
+                {dictionary.about.missionText.part2}
               </p>
             </div>
             <div className="relative h-64 md:h-96 rounded-lg overflow-hidden bg-tech-dark">
@@ -91,13 +91,13 @@ export default async function About({
               <h2 className="text-3xl font-bold mb-4">{dictionary.about.story}</h2>
               <div className="w-16 h-1 bg-secondary mb-6"></div>
               <p className="text-gray-700 mb-6">
-                ActionFigureAI was founded in 2023 by a team of AI researchers, 3D modeling experts, and toy industry veterans who shared a passion for action figures and technology.
+                {dictionary.about.storyText.part1}
               </p>
               <p className="text-gray-700 mb-6">
-                We started with a simple question: What if anyone could have an action figure that looked exactly like them? After months of development and testing, we created our proprietary AI system that can transform ordinary photos into detailed action figure designs.
+                {dictionary.about.storyText.part2}
               </p>
               <p className="text-gray-700">
-                Today, we're proud to offer this technology to people around the world, helping them create personalized keepsakes and gifts that celebrate individuality and imagination.
+                {dictionary.about.storyText.part3}
               </p>
             </div>
           </div>
@@ -131,10 +131,10 @@ export default async function About({
                   />
                 </svg>
               </div>
-              <h3 className="text-xl font-semibold mb-1">Emily Chen</h3>
-              <p className="text-secondary font-medium mb-2">CEO & Co-Founder</p>
+              <h3 className="text-xl font-semibold mb-1">{dictionary.about.teamMembers.member1.name}</h3>
+              <p className="text-secondary font-medium mb-2">{dictionary.about.teamMembers.member1.role}</p>
               <p className="text-gray-600">
-                AI researcher with a passion for bringing technology and creativity together.
+                {dictionary.about.teamMembers.member1.description}
               </p>
             </div>
 
@@ -156,10 +156,10 @@ export default async function About({
                   />
                 </svg>
               </div>
-              <h3 className="text-xl font-semibold mb-1">Michael Rodriguez</h3>
-              <p className="text-secondary font-medium mb-2">CTO & Co-Founder</p>
+              <h3 className="text-xl font-semibold mb-1">{dictionary.about.teamMembers.member2.name}</h3>
+              <p className="text-secondary font-medium mb-2">{dictionary.about.teamMembers.member2.role}</p>
               <p className="text-gray-600">
-                Computer vision expert with 15 years experience in 3D modeling and rendering.
+                {dictionary.about.teamMembers.member2.description}
               </p>
             </div>
 
@@ -181,10 +181,10 @@ export default async function About({
                   />
                 </svg>
               </div>
-              <h3 className="text-xl font-semibold mb-1">Sarah Johnson</h3>
-              <p className="text-secondary font-medium mb-2">Head of Design</p>
+              <h3 className="text-xl font-semibold mb-1">{dictionary.about.teamMembers.member3.name}</h3>
+              <p className="text-secondary font-medium mb-2">{dictionary.about.teamMembers.member3.role}</p>
               <p className="text-gray-600">
-                Former toy designer with expertise in creating collectible action figures.
+                {dictionary.about.teamMembers.member3.description}
               </p>
             </div>
           </div>
