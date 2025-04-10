@@ -1,0 +1,53 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "gallery": "Gallery",
+    "create": "Create Your Figure"
+  },
+  "hero": {
+    "title": "Transform Yourself Into an Action Figure",
+    "subtitle": "Upload your photo and let AI create a personalized action figure",
+    "cta": "Create Now"
+  },
+  "features": {
+    "title": "How It Works",
+    "upload": {
+      "title": "Upload Your Photo",
+      "description": "Provide a clear photo of yourself or the person you want to transform"
+    },
+    "customize": {
+      "title": "Choose Your Style",
+      "description": "Select from various action figure styles and customization options"
+    },
+    "generate": {
+      "title": "AI Generation",
+      "description": "Our advanced AI transforms your photo into a realistic action figure"
+    },
+    "download": {
+      "title": "Download & Share",
+      "description": "Download your digital action figure or order a physical one"
+    }
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "Browse our collection of AI-generated action figures",
+    "viewMore": "View More"
+  },
+  "testimonials": {
+    "title": "What Our Users Say",
+    "viewAll": "View All Reviews"
+  },
+  "about": {
+    "title": "About Us",
+    "mission": "Our Mission",
+    "story": "Our Story",
+    "team": "Our Team"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact Us"
+  }
+} 

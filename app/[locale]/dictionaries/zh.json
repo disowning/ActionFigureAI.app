@@ -1,0 +1,53 @@
+{
+  "navigation": {
+    "home": "首页",
+    "about": "关于我们",
+    "gallery": "作品展示",
+    "create": "创建形象"
+  },
+  "hero": {
+    "title": "将您的照片变成手办模型",
+    "subtitle": "使用先进的AI技术，将您的照片转化为个性化手办模型",
+    "cta": "创建您的手办模型"
+  },
+  "features": {
+    "title": "如何运作",
+    "upload": {
+      "title": "上传照片",
+      "description": "提供您自己或您想要转换的人的清晰照片"
+    },
+    "customize": {
+      "title": "选择风格",
+      "description": "从各种手办模型风格和定制选项中选择"
+    },
+    "generate": {
+      "title": "AI生成",
+      "description": "我们先进的AI将您的照片转换成逼真的手办模型"
+    },
+    "download": {
+      "title": "下载与分享",
+      "description": "下载您的数字手办模型或订购实体模型"
+    }
+  },
+  "gallery": {
+    "title": "作品展示",
+    "subtitle": "浏览我们的AI生成手办模型收藏",
+    "viewMore": "查看更多"
+  },
+  "testimonials": {
+    "title": "用户评价",
+    "viewAll": "查看所有评论"
+  },
+  "about": {
+    "title": "关于我们",
+    "mission": "我们的使命",
+    "story": "我们的故事",
+    "team": "我们的团队"
+  },
+  "footer": {
+    "rights": "版权所有",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "contact": "联系我们"
+  }
+} 

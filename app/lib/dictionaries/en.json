@@ -1,0 +1,28 @@
+{
+  "hero": {
+    "title": "Transform Your Photo into an Action Figure",
+    "subtitle": "Using advanced AI technology to create personalized action figures from your photos",
+    "cta": "Create Your Action Figure"
+  },
+  "gallery": {
+    "title": "Action Figure Gallery",
+    "subtitle": "Explore our collection of AI-generated personalized action figures",
+    "categories": {
+      "all": "All",
+      "superhero": "Superhero",
+      "scifi": "Sci-Fi",
+      "fantasy": "Fantasy",
+      "sports": "Sports",
+      "space": "Space",
+      "western": "Western",
+      "martialArts": "Martial Arts",
+      "medieval": "Medieval",
+      "pirates": "Pirates"
+    },
+    "createYourOwn": {
+      "title": "Create Your Own Action Figure",
+      "subtitle": "Ready to see yourself as an action figure? Upload your photo and let our AI do the magic!",
+      "cta": "Get Started"
+    }
+  }
+} 

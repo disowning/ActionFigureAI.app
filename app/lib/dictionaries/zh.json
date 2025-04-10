@@ -1,0 +1,28 @@
+{
+  "hero": {
+    "title": "将您的照片变成手办模型",
+    "subtitle": "使用先进的AI技术，将您的照片转化为个性化手办模型",
+    "cta": "创建您的手办模型"
+  },
+  "gallery": {
+    "title": "手办模型展示",
+    "subtitle": "探索我们的AI生成个性化手办模型收藏",
+    "categories": {
+      "all": "全部",
+      "superhero": "超级英雄",
+      "scifi": "科幻",
+      "fantasy": "奇幻",
+      "sports": "运动",
+      "space": "太空",
+      "western": "西部",
+      "martialArts": "武术",
+      "medieval": "中世纪",
+      "pirates": "海盗"
+    },
+    "createYourOwn": {
+      "title": "创建您的手办模型",
+      "subtitle": "准备好看到自己变成手办模型了吗？上传您的照片，让我们的AI施展魔法！",
+      "cta": "开始创建"
+    }
+  }
+} 
